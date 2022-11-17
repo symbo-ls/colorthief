@@ -20,6 +20,6 @@
     "amdName": "ColorThief",
     "dependencies": {
         "get-pixels": "^3.3.2",
-        "quantize": "github:lokesh/quantize"
+        "quantize": "@symbo.ls/quantize"
     }
 }

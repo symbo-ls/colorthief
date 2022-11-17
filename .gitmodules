@@ -1,3 +1,6 @@
 [submodule "submodules/quantize"]
 	path = submodules/quantize
 	url = git@github.com:symbo-ls/quantize.git
+[submodule "submodules/get-pixels"]
+	path = submodules/get-pixels
+	url = git@github.com:symbo-ls/get-pixels.git
