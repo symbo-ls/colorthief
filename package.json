@@ -1,0 +1,25 @@
+{
+    "name": "@symbo.ls/colorthief",
+    "description": "Get the dominant color or color palette from an image.",
+    "version": "2.3.2",
+    "author": {
+        "name": "Lokesh Dhakar",
+        "email": "lokesh.dhakar@gmail.com",
+        "url": "http://lokeshdhakar.com/"
+    },
+    "homepage": "http://lokeshdhakar.com/projects/color-thief/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/symbo-ls/color-thief.git"
+    },
+    "license": "MIT",
+    "source": "src/color-thief.js",
+    "main": "dist/color-thief.js",
+    "module": "dist/color-thief.mjs",
+    "umd:main": "dist/color-thief.umd.js",
+    "amdName": "ColorThief",
+    "dependencies": {
+        "get-pixels": "^3.3.2",
+        "quantize": "github:lokesh/quantize"
+    }
+}
