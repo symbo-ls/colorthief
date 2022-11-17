@@ -1,5 +1,5 @@
-const getPixels = require('get-pixels');
-const quantize = require('quantize');
+const getPixels = require('@symbo.ls/get-pixels');
+const quantize = require('@symbo.ls/quantize');
 
 function createPixelArray(imgData, pixelCount, quality) {
     const pixels = imgData;

@@ -19,7 +19,7 @@
     "umd:main": "dist/color-thief.umd.js",
     "amdName": "ColorThief",
     "dependencies": {
-        "get-pixels": "^3.3.2",
-        "quantize": "@symbo.ls/quantize"
+        "@symbo.ls/get-pixels": "latest",
+        "@symbo.ls/quantize": "latest"
     }
 }
