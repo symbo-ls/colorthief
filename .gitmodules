@@ -1,0 +1,3 @@
+[submodule "submodules/quantize"]
+	path = submodules/quantize
+	url = git@github.com:symbo-ls/quantize.git
